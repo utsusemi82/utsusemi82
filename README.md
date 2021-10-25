@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utsusemi82
-- 👀 I’m interested in data analytics.
+- 👀 I’m interested in data science.
 - 🌱 I’m currently learning Computer Science. 
 
 
