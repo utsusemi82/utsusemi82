@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @utsusemi82
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning Computer Science. 
+## Hi, I’m @utsusemi82 👋
+---
+I am currently a CS student in University of Malaya. I'm interested in Data Science and also UI/UX. 
+
 
 
 <!---
