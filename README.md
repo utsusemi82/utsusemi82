@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Jay (Cher Jia Wen).👋
 
-<!--
-**utsusemi82/utsusemi82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Science Student** from the University of Malaya (batch 2021/2022), currently exploring the vast field of data science. My journey involves continuous learning, hands-on projects, and a passion for turning data into actionable insights. 
 
-Here are some ideas to get you started:
+I'm always eager to learn and collaborate. If you have feedback, suggestions, or opportunities for collaboration, please don't hesitate to reach out! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡About Me
+- **Interests**: Data Science, Machine Learning, AI, Data Visualization and UI/UX project design (depends on projects)
+- **Current Focus**: Enhancing my skills through practical projects and collaborations
+
+---
+
+*The journey of learning is endless, and every project is a step forward. (imo)*
