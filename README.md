@@ -1,4 +1,4 @@
-# Hi there! I'm Jay (Cher Jia Wen).👋
+# Hi there! I'm Jay (Cher Jia Wen)👋
 
 I'm a **Data Science Student** from the University of Malaya (batch 2021/2022), currently exploring the vast field of data science. My journey involves continuous learning, hands-on projects, and a passion for turning data into actionable insights. 
 
