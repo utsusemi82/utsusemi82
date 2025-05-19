@@ -21,7 +21,7 @@ A data science final year project (Jan 2024) that detects stress levels using He
 Designed for a Google GSC competition in 2023, *InvestEdu* is a blockchain-based platform promoting financial literacy. I served as the UI/UX designer, responsible for creating the full Figma prototype, user flows, and visual interface.
 🔗 [Figma Prototype](https://www.figma.com/proto/34siaagY1mIlOkVkmaNSij?node-id=0-1&t=oclX5bLQDRLQjNHI-6)  
 
-### [Listen to Me](https://github.com/utsusemi82/FigmaPrototype/ListentoMe/README.md)
+### [Listen to Me](https://github.com/utsusemi82/ListentoMe)
 *🏅 Bronze Award Winner – Software Engineering Innovation Day 2023*  
 A web-based audiobook library designed for visually impaired users, focused on accessibility and inclusivity. I led the team, created the UI in Figma, and presented the project, which aligns with *SDG 4: Quality Education*.  🔗 [Figma Prototype](https://www.figma.com/proto/0R0AJrmu3hQx0syp9MQt9A/Project-Management?node-id=256-357&starting-point-node-id=124%3A494)
 
