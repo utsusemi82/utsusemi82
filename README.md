@@ -20,6 +20,7 @@ A web-based audiobook library designed for visually impaired users, focused on a
 
 ### [HeartWise – Stress Detection via HRV](https://github.com/utsusemi82/HeartWise)
 A data science final year project (Jan 2024) that detects stress levels using Heart Rate Variability (HRV) data. I built with Streamlit and deployed as a web app, HeartWise classifies user inputs into stress categories using a trained machine learning model.
+
 🔗 [HeartWise Streamlit](https://heartwise.streamlit.app/)
 
 ---
