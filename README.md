@@ -1,4 +1,4 @@
-# This is Jay, currently exploring the vast field of data science, AI/ML. My journey involves continuous learning, hands-on projects, and a passion for turning data into actionable insights. 
+### This is Jay, currently exploring the vast field of data science, AI/ML. My journey involves continuous learning, hands-on projects, and a passion for turning data into actionable insights. 
 
 I'm always eager to learn and collaborate. If you have feedback, suggestions, or opportunities for collaboration, please don't hesitate to reach out! 
 
